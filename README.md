@@ -1,4 +1,4 @@
-# Fitness Agent
+# Fit_Vibe - Fitness Agent
 
 Fitness Agent is a FastAPI service that analyzes a user's fitness profile and returns a structured fitness plan, including workouts, meals, macro guidance, and motivation.
 
